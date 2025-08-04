@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Activity_24
+namespace Activity_23
 {
     internal class Program
     {
@@ -32,3 +32,4 @@ namespace Activity_24
         }
     }
 }
+
